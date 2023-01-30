@@ -1,5 +1,5 @@
 
-# Plantilla para restaurante moderno
+# Restaurante Moderno plantilla de página web
 
 ### [Visita el sitio web](https://proyecto2.marvingcdev.ml/)
 
